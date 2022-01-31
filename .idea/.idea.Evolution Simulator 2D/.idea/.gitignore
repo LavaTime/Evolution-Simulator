@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Evolution Simulator 2D.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\Unity Projects\Evolution Simulator 2D\.idea\.idea.Evolution Simulator 2D\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
