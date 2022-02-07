@@ -29,5 +29,7 @@ public class Joint_controller : MonoBehaviour
         Color newColor = new Color(R_value, GB_value, GB_value);
         SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.color = newColor;
+        Rigidbody2D joint_rb = GetComponent<Rigidbody2D>();
+        joint_rb.drag = weight * 10;
     }
 }
